@@ -14,7 +14,7 @@ const Post = ({name, description, message, photoUrl }) => {
                 <PersonIcon/>
                 <div className="post__info">
                     <h3>Shafikul Islam</h3>
-                    <p style={{color:"grey"}}>Des---web Developer</p>
+                    <p style={{color:"grey"}}>Web Developer</p>
                 </div>
             </div>
             <div className="post__body">
