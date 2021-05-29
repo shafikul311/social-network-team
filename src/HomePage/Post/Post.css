@@ -1,0 +1,41 @@
+.post {
+    background-color: white;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 15 px;
+    border-radius:15px;
+   
+
+
+}
+
+.post__header {
+    display: flex;
+    padding-left: 15px;
+    margin-bottom: 10px;
+
+
+}
+.post__body {
+    overflow-wrap: anywhere;
+
+}
+
+.post > h3 {
+    font-size: 25px;
+}
+
+.post__button {
+   
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+    
+}
+.post__button:hover {
+   
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+    
+}
